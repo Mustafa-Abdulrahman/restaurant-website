@@ -1,4 +1,4 @@
 # restaurant-website
-Restaurant Website Challenge Training
+Dynamic responsive website using HTML - CSS - JS
 
-## April 2022 HTML, CSS, JS
+## April 2022 
