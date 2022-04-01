@@ -1,4 +1,4 @@
 # restaurant-website
 Restaurant Website Challenge Training
 
-## Project Training
+## April 2022 HTML, CSS, JS
